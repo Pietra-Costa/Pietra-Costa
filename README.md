@@ -5,14 +5,14 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+   Linguagens: 
   - HTML
   - CSS
   - JavaScript
 </p>
 
 <p align="left">
-  💌 Quer entrar em contato comigo? ⤵️
+  💌 Quer entrar em contato comigo? 
 </p>
 
 <p align="left">
