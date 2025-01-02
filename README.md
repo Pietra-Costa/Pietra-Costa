@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Meu nome é Pietra e sou uma desenvolvedora fullstack com um forte foco em frontend. Ao longo da minha carreira, tenho dedicado minha paixão e habilidades para criar experiências digitais envolventes e funcionais através de interfaces de usuário intuitivas e responsivas
+Meu nome é Pietra e sou uma desenvolvedora fullstack com foco em frontend. Ao longo da minha carreira, tenho dedicado minha paixão e habilidades para criar experiências digitais envolventes e funcionais através de interfaces de usuário intuitivas e responsivas
 
 
 ## 🌐 Redes Sociais:
